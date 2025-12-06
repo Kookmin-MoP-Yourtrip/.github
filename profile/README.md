@@ -50,8 +50,6 @@ YOURTRIP은 사용자가 여행을 계획할 때 겪는
 - 사용자는 직접 **여행 코스를 만들고 관리**할 수 있으며
 - 다른 사람이 만든 코스를 **공유 / 검색 / fork**해서
 - 나만의 여행 계획으로 **커스터마이징**할 수 있습니다.
-- 친구와 **실시간 공동 편집**을 통해 같이 코스를 설계하는 것도 목표로 합니다.
-
 ---
 
 ## 📌 주요 기능
@@ -104,11 +102,7 @@ YOURTRIP은 사용자가 여행을 계획할 때 겪는
 - 잘 만든 코스를 다른 사람이 복사해서 쓰는 구조로  
   → 여행 계획이 쌓일수록 플랫폼 가치 상승
 
-3️⃣ **함께 만드는 여행 계획**  (구현 못함)
-- 친구와 실시간으로 코스를 보면서  
-  “여기 카페 하나 더 넣자”, “둘째 날을 바꿔보자” 같은 협업 플랜닝
-
-4️⃣ **모바일 환경 최적화**  
+3️⃣ **모바일 환경 최적화**  
 - 실제 여행 계획/조율이 가장 많이 일어나는 환경인 **모바일(Android)** 기준으로 UX 설계
 
 ---
@@ -129,7 +123,19 @@ YOURTRIP은 사용자가 여행을 계획할 때 겪는
 
 ### 📱 Frontend (Android)
 
-- 수정 부탁
+- **Language**: Java, XML
+- **Framework**: Android SDK
+- **UI 구성**:
+ - XML 기반 레이아웃 설계
+ - Fragment 기반 화면 전환 구조
+ - RecyclerView, ViewPager2, FlexboxLayout, ConstraintLayout, LinearLayout 등을 활용한 반응형 UI 구성
+- **네비게이션**: BottomNavigationView, FragmentManager를 활용한 화면 전환
+- **이미지 처리**: Glide 기반 이미지 로딩 및 캐싱
+- **네트워크**: Retrofit2 + OkHttp3, Interceptor를 통한 JWT 인증 헤더 자동 주입
+- **상태관리**: SharedPreferences 기반 사용자 세션 관리
+- **아키텍처**: Adapter 패턴, Listener 인터페이스 기반 이벤트 처리
+- **디자인 시스템**: 공통 UI 컴포넌트(TagBasicView, TripCard, 버튼/태그 스타일 등) 재사용 구조
+- **기타**: S3 이미지 업로드 연동, Swagger 기반 API 스펙 맞춤 데이터 처리
 
 ### 🔧 Backend (Spring Boot)
 
