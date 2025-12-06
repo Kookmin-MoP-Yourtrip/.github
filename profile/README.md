@@ -32,7 +32,7 @@ AI 추천과 코스 공유 기능으로 여행 계획의 번거로움을 줄여�
 | 남지은   | BE                 | @                                                | ?? |
 | 최서구   | BE                 | @                                                | ?? |
 | 이다은   | FE                 | @                                                | ?? |
-| 조혜원   | FE                 | @[@agunggung22](https://github.com/agunggung22)  | ?? |
+| 조혜원   | FE                 | [@agunggung22](https://github.com/agunggung22)   |UI/UX 설계, **홈/피드** 전체 화면 개발, 공통 View 컴포넌트 개발 및 프론트 구조 설계 |
 
 ---
  
