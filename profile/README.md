@@ -153,7 +153,6 @@ YOURTRIP은 사용자가 여행을 계획할 때 겪는
 YOURTRIP_FE/
 ├── manifests/
 │   └── AndroidManifest.xml                # 앱 권한, 액티비티, Application 등록
-
 ├── java/
 │   └── com.example.yourtrip/
 │       ├── auth/                          # 로그인/회원가입, 토큰 처리
