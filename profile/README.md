@@ -125,10 +125,7 @@ YOURTRIP은 사용자가 여행을 계획할 때 겪는
 
 - **Language**: Java, XML
 - **Framework**: Android SDK
-- **UI 구성**:
- - XML 기반 레이아웃 설계
- - Fragment 기반 화면 전환 구조
- - RecyclerView, ViewPager2, FlexboxLayout, ConstraintLayout, LinearLayout 등을 활용한 반응형 UI 구성
+- **UI 구성**: XML 기반 레이아웃 설계, Fragment 기반 화면 전환 구조, RecyclerView, ViewPager2, FlexboxLayout, ConstraintLayout, LinearLayout 등을 활용한 반응형 UI 구성
 - **네비게이션**: BottomNavigationView, FragmentManager를 활용한 화면 전환
 - **이미지 처리**: Glide 기반 이미지 로딩 및 캐싱
 - **네트워크**: Retrofit2 + OkHttp3, Interceptor를 통한 JWT 인증 헤더 자동 주입
