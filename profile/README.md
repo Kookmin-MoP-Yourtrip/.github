@@ -303,6 +303,7 @@ git clone https://github.com/Kookmin-MoP-Yourtrip/YOURTRIP_FE.git
 cd YOURTRIP_FE
 ```
 - 추가부탁
+- SDK 버전 추가해야함
 
 ### 🛠 BE – Spring Boot
 
