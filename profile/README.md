@@ -26,7 +26,7 @@ AI 추천과 코스 공유 기능으로 여행 계획의 번거로움을 줄여�
 
 | 이름      | 역할              | GitHub                                           | 주요 담당 |
 |--------  |--------------      |--------------------------------------------------|----------|
-| 김태환   | Leader / BE / FE   | [@KimTaeHwan21](https://github.com/KimTaeHwan21) | 서버 구축 및 에러 수정, 기본 회원가입/로그인, 마이페이지, 인증/인가, 프론트 마이페이지 UI / 프로필 편집 |
+| 김태환   | Leader / BE / FE   | [@KimTaeHwan21](https://github.com/KimTaeHwan21) | 서버 구축 및 에러 수정, 기본 회원가입/로그인/비밀번호 변경 , 마이페이지, 인증/인가, 프론트 마이페이지 UI / 프로필 편집 |
 | 남지은   | BE /FE             | [@zie-ning](https://github.com/zie-ning)         | 여행 코스 생성 및 일차별 일정 관리(BE), 코스 업로드 및 fork 로직(BE), AI 코스 생성 플로우 UI(FE) |
 | 최서구   | BE / FE            | [@choiseogu](https://github.com/choiseogu)       | 여행 피드 CRUD API 개발(BE), 피드에 대한 댓글 CRUD API 개발(BE), 나의 업로드 코스 및 피드 조회 플로우 기능 개발(FE) |
 | 이다은   | FE                 | [@dani0910](https://github.com/dani0910)                                                | ?? |
