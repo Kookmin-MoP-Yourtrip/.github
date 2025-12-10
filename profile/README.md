@@ -10,8 +10,10 @@ AI 추천과 코스 공유 기능으로 여행 계획의 번거로움을 줄여�
 
 
 <p align="center">
-  <img src="이미지_URL_여기에" alt="YOURTRIP 메인 화면" width="900"/>
+  <!-- <img src="이미지_URL_여기에" alt="YOURTRIP 메인 화면" width="900"/> -->
+  <img width="6402" height="5083" alt="yourtrip_main" src="https://github.com/user-attachments/assets/2e1b3319-8806-4a51-b8a9-9fbdb7f5edcf" />
 </p>
+
 
 ---
 
