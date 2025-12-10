@@ -1,4 +1,4 @@
-# ✈️ YOURTRIP — AI 기반 여행 코스 플래너
+<img width="266" height="355" alt="image" src="https://github.com/user-attachments/assets/9018befa-7fdb-4ef0-bd58-ed365e7134f9" /># ✈️ YOURTRIP — AI 기반 여행 코스 플래너
 
 **개발 기간**: 2025.09 ~ 2025.12 (2025-2 모바일 프로그래밍 팀 프로젝트)
 
@@ -322,15 +322,12 @@ cd YOURTRIP_BE
 
 #### 📑 발표 자료(PPT): 업데이트 예정
 
-#### 🎥 노션 링크: 업데이트 예정
+#### 🎥 노션 링크: (https://aquamarine-book-1e6.notion.site/2025-2-_-2-_1-26b77c61398180168bcfd3eee08b8e0c?source=copy_link)
 
-#### 🎥 피그마 링크: 업데이트 예정
+#### 🎥 피그마 링크: (https://www.figma.com/design/YcCdV6Eqf486kKcZOK6mUm)
 
-#### 🎥 피그 링크: 업데이트 예정
+#### 🎥 피그잼 링크: (https://www.figma.com/board/TjRf47J8qvnVRsg2dXcSy9/)
 
-#### 🎥 Swagger 링크: 업데이트 예정
+#### 🎥 Swagger 링크: (https://yourtrip.site/swagger-ui/index.html)
 
-#### 🎥 ERD 링크: 업데이트 예정
-
-#### 🌐 배포 링크: 업데이트 예정
-
+#### 🎥 ERD 링크: (https://www.erdcloud.com/d/FvCG4hazXKR4vL8aq)
