@@ -304,6 +304,7 @@ cd YOURTRIP_FE
 ```
 - 추가부탁
 - SDK 버전 추가해야함
+- 실행 참고 사항
 
 ### 🛠 BE – Spring Boot
 
@@ -314,6 +315,17 @@ cd YOURTRIP_BE
 - 환경 변수 설정 후 실행
   ```bash
   ./gradlew bootRun
+  ```
+- 실행 참고 사항
+  ```bash
+  1. Java 21(Amazon Corretto) 설치 필요
+  2. 환경변수 설정 필수 (.env 또는 OS 환경변수)
+   - DB_URL, DB_USERNAME, DB_PASSWORD
+   - JWT_SECRET
+   - MAIL_EMAIL, MAIL_PASSWORD
+   - AWS_ACCESS_KEY, AWS_SECRET_KEY
+   - KAKAO_CLIENT_ID, KAKAO_SECRET etc.
+  3. EC2에서는 8080 포트 사용, Swagger는 /swagger-ui.html
   ```
 
 ## 📎 기타 자료
