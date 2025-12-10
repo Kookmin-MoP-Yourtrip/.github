@@ -115,11 +115,28 @@ YOURTRIP은 사용자가 여행을 계획할 때 겪는
 
 | 스플래시 & 로그인 | 코스 탐색 (홈) | 코스 상세 |
 |:---------------:|:---------:|:---------:|
-| <img src="이미지_URL_로그인" width="240"/> | <img src="이미지_URL_코스탐색" width="240"/> | <img src="이미지_URL_코스상세" width="240"/> |
+| <img width="240" height="238" alt="로그인" src="https://github.com/user-attachments/assets/e74ac42f-0c12-41f3-8748-b558a36d6698" /> | <img width="240" height="481" alt="홈" src="https://github.com/user-attachments/assets/62184bec-2c28-459e-a1e0-fb70f552f668" /> | <img width="240" height="481" alt="코스 상세" src="https://github.com/user-attachments/assets/1730a0fd-1b45-42a1-ad60-c7dd69ec506b" /> |
 
 | 나의 코스  | 코스 편집 | 마이페이지 |
 |:---------:|:---------:|:----------:|
-| <img src="이미지_URL_나의코스" width="240"/> | <img src="이미지_URL_코스편집" width="240"/> | <img src="이미지_URL_마이페이지" width="240"/> |
+| <img width="240" height="481" alt="나의 코스 리스트" src="https://github.com/user-attachments/assets/ca7c8c5b-0ada-42c3-865e-e5cfb6d4473d" />| <img width="240" height="481" alt="코스 생성" src="https://github.com/user-attachments/assets/caf8ec87-04ef-4ac1-821e-ea8d39017889" /> | <img width="240" height="481" alt="마이 페이지" src="https://github.com/user-attachments/assets/5870e89e-9eb6-4834-b017-c2593dc89c47" /> |
+
+
+<!-- <img width="1194" height="1187" alt="로그인" src="https://github.com/user-attachments/assets/e74ac42f-0c12-41f3-8748-b558a36d6698" />
+<img width="1194" height<img width="571" height="1186" alt="코스 상세" src="https://github.com/user-attachments/assets/1730a0fd-1b45-42a1-ad60-c7dd69ec506b" />
+="1187" alt="홈" src="https://github.com/user-attachments/assets/62184bec-2c28-459e-a1e0-fb70f552f668" /><img width="571" height="1186" alt="피드" src="https://github.com/user-attachments/assets/8a8cbe2a-f8a1-40ca-8a31-71c2a43680ad" />
+
+<img width="571" height="1186" alt="코스 생성" src="https://github.com/user-attachments/assets/caf8ec87-04ef-4ac1-821e-ea8d39017889" />
+<img width="571" height="1186" alt="<img width="571" height="1186" alt="마이 페이지" src="https://github.com/user-attachments/assets/5870e89e-9eb6-4834-b017-c2593dc89c47" />
+나의 코스 리스트" src="https://github.com/user-attachments/assets/ca7c8c5b-0ada-42c3-865e-e5cfb6d4473d" /> -->
+
+
+
+
+<!-- <img width="240" height="481" alt="피드" src="https://github.com/user-attachments/assets/8a8cbe2a-f8a1-40ca-8a31-71c2a43680ad" /> -->
+
+
+
 
 ---
 
