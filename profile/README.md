@@ -35,7 +35,7 @@ AI 추천과 코스 공유 기능으로 여행 계획의 번거로움을 줄여�
 | 김태환   | Leader / BE / FE   | [@KimTaeHwan21](https://github.com/KimTaeHwan21) | 서버 구축 및 에러 수정, 기본 회원가입/로그인/비밀번호 변경 , 마이페이지, 인증/인가, 프론트 마이페이지 UI / 프로필 편집 |
 | 남지은   | BE /FE             | [@zie-ning](https://github.com/zie-ning)         | 여행 코스 생성 및 일차별 일정 관리(BE), 코스 업로드 및 fork 로직(BE), AI 코스 생성 플로우 UI(FE) |
 | 최서구   | BE / FE            | [@choiseogu](https://github.com/choiseogu)       | 여행 피드 CRUD API 개발(BE), 피드에 대한 댓글 CRUD API 개발(BE), 나의 업로드 코스 및 피드 조회 플로우 기능 개발(FE) |
-| 이다은   | FE                 | [@dani0910](https://github.com/dani0910)                                                | 회원가입/로그인/비밀번호 찾기, 스플래시, 나의 코스 생성/편집/업로드 전체 플로우 개발, 로그아웃, 네트워크/모델 구조 정의, FE 전반적인 UI와 기능 개선|
+| 이다은   | FE                 | [@dani0910](https://github.com/dani0910)         | 회원가입/로그인/비밀번호 찾기, 스플래시, 나의 코스 생성/편집/업로드 전체 플로우 개발, 로그아웃, 네트워크/모델 구조 정의, FE 전반적인 UI와 기능 개선|
 | 조혜원   | FE                 | [@agunggung22](https://github.com/agunggung22)   |UI/UX 설계, **홈/피드** 전체 화면 개발, 공통 View 컴포넌트 개발 및 프론트 구조 설계 |
 
 ---
@@ -327,9 +327,6 @@ cd YOURTRIP_FE
 2. minSdk 24에서도 최신 Java API(java.time 등)를 쓸 수 있도록 Desugaring 옵션 활성화해둠.
 ```
 
-  
-- 실행 참고 사항
-
 ### 🛠 BE – Spring Boot
 
 ```bash
@@ -354,7 +351,7 @@ cd YOURTRIP_BE
 
 ## 📎 기타 자료
 
-#### 🎥 시연 영상: 업데이트 예정
+#### 🎥 시연 영상: (https://drive.google.com/file/d/1G-Yke7Jxho4Y-MWeT2oGBE6q2hJp-3Ed/view)
 
 #### 📑 발표 자료(PPT): 업데이트 예정
 
