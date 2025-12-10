@@ -304,15 +304,15 @@ cd YOURTRIP_FE
 ```
 - SDK 버전 정보
 ```bash
-- compileSdk: 36 (Android 15)
-- targetSdk: 36 (Android 15)
-- minSdk: 24 (Android 7.0 Nougat)
+1. compileSdk: 36 (Android 15)
+2. targetSdk: 36 (Android 15)
+3. minSdk: 24 (Android 7.0 Nougat)
 ```
 
 - 실행 참고 사항
 ```bash
-1. Java 버전 : 프로젝트 **Java 11** 사용, **Java 8** 언어 기능과 호환성 유지
-2. API 디슈가링(Desugaring) : 최신 Java API(예: `java.time`)를 **minSdk 24**에서도 사용할 수 있도록 `isCoreLibraryDesugaringEnabled` 옵션 활성화
+1. Java 11 기반으로 개발했으며, Java 8 문법도 그대로 호환됨.  
+2. minSdk 24에서도 최신 Java API(java.time 등)를 쓸 수 있도록 Desugaring 옵션 활성화해둠.
 ```
 
   
