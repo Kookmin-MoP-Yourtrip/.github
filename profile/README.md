@@ -302,8 +302,16 @@ gemini:
 git clone https://github.com/Kookmin-MoP-Yourtrip/YOURTRIP_FE.git
 cd YOURTRIP_FE
 ```
-- 추가부탁
-- SDK 버전 추가해야함
+#### SDK 버전 정보
+- **compileSdk**: 36 (Android 15)
+- **targetSdk**: 36 (Android 15)
+- **minSdk**: 24 (Android 7.0 Nougat)
+
+#### 실행 참고 사항
+- **Java 버전**: 프로젝트 **Java 11** 사용, **Java 8** 언어 기능과 호환성 유지
+- **API 디슈가링(Desugaring)**: 최신 Java API(예: `java.time`)를 **minSdk 24**에서도 사용할 수 있도록 `isCoreLibraryDesugaringEnabled` 옵션 활성화
+
+  
 - 실행 참고 사항
 
 ### 🛠 BE – Spring Boot
