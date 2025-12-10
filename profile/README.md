@@ -1,4 +1,4 @@
-<img width="266" height="355" alt="image" src="https://github.com/user-attachments/assets/9018befa-7fdb-4ef0-bd58-ed365e7134f9" /># ✈️ YOURTRIP — AI 기반 여행 코스 플래너
+✈️ YOURTRIP — AI 기반 여행 코스 플래너
 
 **개발 기간**: 2025.09 ~ 2025.12 (2025-2 모바일 프로그래밍 팀 프로젝트)
 
